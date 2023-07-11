@@ -1,1 +1,3 @@
 # LinkedIn-Clone
+
+LinkedIn is one of the leading social platforms which is used by working professionals for work related communication and is popular among college students too. LinkedIn has many benefits over other messaging platforms in the market This project is a challenging project for beginners, the perfect project idea for intermediates and a routine project for professionals. This project uses an intermediate-advanced level of React-Redux concepts and foundational basic knowledge of Firebase databases. Reason for following this tech-stack is that these languages are easy to use and are also fast in terms of execution time
